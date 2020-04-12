@@ -1,0 +1,20 @@
+Name,Rewards,RewardAmounts,Probabilities,Sequential
+String,String,int,int,Boolean
+PopToolRewardSet1,Wheat,1,10,FALSE
+,FreeDiamonds,2,10,
+,Cream,3,10,
+,Brown_Sugar,4,10,
+,Butter,5,10,
+,Cheese,6,10,
+,White Sugar,7,10,
+,Syrup,8,10,
+,Voucher1,9,10,
+,Voucher2,10,10,
+,Voucher3,11,10,
+,Voucher4,12,10,
+PopToolRewardSet2,Dynamite,1,10,FALSE
+,Demolition Charge,2,10,
+,Axe,3,10,
+,Saw,4,10,
+,Shovel,5,10,
+,Pickaxe,6,10,

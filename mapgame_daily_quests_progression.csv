@@ -1,0 +1,17 @@
+Name,NumberOfQuests,MysteryBoxPrizeType,BonusRound,Hidden
+String,int,int,boolean,boolean
+Level1,2,1,,
+Level2,5,2,,
+Level3,3,,TRUE,
+Level4,9,2,,
+Level5,4,1,,
+Level6,9,2,,
+Level7,8,,TRUE,
+Level8,10,2,,
+Level9,3,1,,
+Level10,9,3,,
+Level11,8,2,,
+Level12,5,1,,
+Level13,7,,TRUE,
+Level14,10,1,,TRUE
+Level15,10,1,,TRUE

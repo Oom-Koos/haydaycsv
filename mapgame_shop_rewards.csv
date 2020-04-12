@@ -1,0 +1,212 @@
+Name,Tier,Reward,Amount,Probability,IconFile,IconExportName,Coin,Price,TID,Limit
+String,int,String,int,int,String,String,String,int,String,int
+ValleyRewardDynamite,1,Dynamite,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardDemolition Charge,1,Demolition Charge,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardAxe,1,Axe,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardSaw,1,Saw,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardShovel,1,Shovel,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardPickaxe,1,Pickaxe,1,5,,,MapGameCoinBlue,150,,3
+,,,,,,,MapGameCoinRed,150,,
+,,,,,,,MapGameCoinGreen,150,,
+ValleyRewardExpansion Key,1,Expansion Key,1,40,,,MapGameCoinBlue,280,,3
+,,,,,,,MapGameCoinRed,285,,
+,,,,,,,MapGameCoinGreen,285,,
+ValleyRewardPuzzle Piece 1,1,Puzzle Piece 1,1,40,,,MapGameCoinBlue,285,,3
+,,,,,,,MapGameCoinRed,285,,
+,,,,,,,MapGameCoinGreen,280,,
+ValleyRewardPlank,1,Plank,1,15,,,MapGameCoinBlue,220,,2
+,,,,,,,MapGameCoinRed,210,,
+,,,,,,,MapGameCoinGreen,220,,
+ValleyRewardDuct Tape,1,Duct Tape,1,15,,,MapGameCoinBlue,210,,2
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,220,,
+ValleyRewardBolt,1,Bolt,1,15,,,MapGameCoinBlue,220,,2
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,210,,
+ValleyRewardScrew,1,Screw,1,15,,,MapGameCoinBlue,215,,2
+,,,,,,,MapGameCoinRed,215,,
+,,,,,,,MapGameCoinGreen,220,,
+ValleyRewardNail,1,Nail,1,15,,,MapGameCoinBlue,220,,2
+,,,,,,,MapGameCoinRed,215,,
+,,,,,,,MapGameCoinGreen,215,,
+ValleyRewardWood Panel,1,Wood Panel,1,15,,,MapGameCoinBlue,215,,2
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,215,,
+ValleyRewardLand Deed,1,Land Deed,1,15,,,MapGameCoinBlue,210,,2
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,220,,
+ValleyRewardMallet,1,Mallet,3,15,,,MapGameCoinBlue,220,,2
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,210,,
+ValleyRewardMarker Stake,1,Marker Stake,1,15,,,MapGameCoinBlue,220,,2
+,,,,,,,MapGameCoinRed,215,,
+,,,,,,,MapGameCoinGreen,215,,
+ValleyRewardRopeFence,1,RopeFence,1,0,,,MapGameCoinBlue,180,,3
+,,,,,,,MapGameCoinRed,180,,
+,,,,,,,MapGameCoinGreen,190,,
+ValleyRewardDitch,1,Ditch,3,6,,,MapGameCoinBlue,190,,3
+,,,,,,,MapGameCoinRed,180,,
+,,,,,,,MapGameCoinGreen,180,,
+ValleyRewardWheebarrow,1,Wheebarrow,1,0,,,MapGameCoinBlue,130,,3
+,,,,,,,MapGameCoinRed,130,,
+,,,,,,,MapGameCoinGreen,140,,
+ValleyRewardBench_2,1,Bench_2,1,0,,,MapGameCoinBlue,160,,3
+,,,,,,,MapGameCoinRed,170,,
+,,,,,,,MapGameCoinGreen,170,,
+ValleyRewardBonfire,1,Bonfire,1,0,,,MapGameCoinBlue,170,,3
+,,,,,,,MapGameCoinRed,170,,
+,,,,,,,MapGameCoinGreen,160,,
+ValleyRewardEasierBoats_lv3,1,EasierBoats_lv3,1,8,,,MapGameCoinBlue,200,,3
+,,,,,,,MapGameCoinRed,200,,
+,,,,,,,MapGameCoinGreen,200,,
+ValleyRewardFasterFishingSpots_lv3,1,FasterFishingSpots_lv3,1,0,,,MapGameCoinBlue,200,,3
+,,,,,,,MapGameCoinRed,200,,
+,,,,,,,MapGameCoinGreen,200,,
+ValleyRewardMoreCash_lv3,1,MoreCash_lv3,1,8,,,MapGameCoinBlue,200,,3
+,,,,,,,MapGameCoinRed,200,,
+,,,,,,,MapGameCoinGreen,200,,
+ValleyRewardDynamite_Green,1,Dynamite,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardDemolition Charge_Green,1,Demolition Charge,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardAxe_Green,1,Axe,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardSaw_Green,1,Saw,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardShovel_Green,1,Shovel,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardPickaxe_Green,1,Pickaxe,1,3,,,MapGameCoinGreen,450,,3
+ValleyRewardExpansion Key_Green,1,Expansion Key,1,1,,,MapGameCoinGreen,850,,1
+ValleyRewardPuzzle Piece 1_Green,1,Puzzle Piece 1,1,1,,,MapGameCoinGreen,850,,1
+ValleyRewardPlank_Green,1,Plank,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardDuct Tape_Green,1,Duct Tape,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardBolt_Green,1,Bolt,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardScrew_Green,1,Screw,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardNail_Green,1,Nail,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardWood Panel_Green,1,Wood Panel,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardLand Deed_Green,1,Land Deed,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardMallet_Green,1,Mallet,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardMarker Stake_Green,1,Marker Stake,1,3,,,MapGameCoinGreen,650,,2
+ValleyRewardRopeFence_Green,1,RopeFence,3,0,,,MapGameCoinGreen,550,,3
+ValleyRewardDitch_Green,1,Ditch,3,2,,,MapGameCoinGreen,550,,3
+ValleyRewardWheebarrow_Green,1,Wheebarrow,1,0,,,MapGameCoinGreen,400,,3
+ValleyRewardBench_2_Green,1,Bench_2,1,0,,,MapGameCoinGreen,500,,3
+ValleyRewardBonfire_Green,1,Bonfire,1,0,,,MapGameCoinGreen,500,,3
+ValleyRewardEasierBoats_lv3_Green,1,EasierBoats_lv3,1,4,,,MapGameCoinGreen,600,,3
+ValleyRewardFasterFishingSpots_lv3_Green,1,FasterFishingSpots_lv3,1,0,,,MapGameCoinGreen,600,,3
+ValleyRewardMoreCash_lv3_Green,1,MoreCash_lv3,1,4,,,MapGameCoinGreen,600,,3
+ValleyRewardDynamite_Red,1,Dynamite,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardDemolition Charge_Red,1,Demolition Charge,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardAxe_Red,1,Axe,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardSaw_Red,1,Saw,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardShovel_Red,1,Shovel,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardPickaxe_Red,1,Pickaxe,1,3,,,MapGameCoinRed,450,,3
+ValleyRewardExpansion Key_Red,1,Expansion Key,1,1,,,MapGameCoinRed,850,,1
+ValleyRewardPuzzle Piece 1_Red,1,Puzzle Piece 1,1,1,,,MapGameCoinRed,850,,1
+ValleyRewardPlank_Red,1,Plank,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardDuct Tape_Red,1,Duct Tape,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardBolt_Red,1,Bolt,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardScrew_Red,1,Screw,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardNail_Red,1,Nail,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardWood Panel_Red,1,Wood Panel,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardLand Deed_Red,1,Land Deed,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardMallet_Red,1,Mallet,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardMarker Stake_Red,1,Marker Stake,1,3,,,MapGameCoinRed,650,,2
+ValleyRewardRopeFence_Red,1,RopeFence,3,0,,,MapGameCoinRed,550,,3
+ValleyRewardDitch_Red,1,Ditch,3,2,,,MapGameCoinRed,550,,3
+ValleyRewardWheebarrow_Red,1,Wheebarrow,1,0,,,MapGameCoinRed,400,,3
+ValleyRewardBench_2_Red,1,Bench_2,1,0,,,MapGameCoinRed,500,,3
+ValleyRewardBonfire_Red,1,Bonfire,1,0,,,MapGameCoinRed,500,,3
+ValleyRewardEasierBoats_lv3_Red,1,EasierBoats_lv3,1,4,,,MapGameCoinRed,600,,3
+ValleyRewardFasterFishingSpots_lv3_Red,1,FasterFishingSpots_lv3,1,0,,,MapGameCoinRed,600,,3
+ValleyRewardMoreCash_lv3_Red,1,MoreCash_lv3,1,4,,,MapGameCoinRed,600,,3
+ValleyRewardDynamite_Blue,1,Dynamite,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardDemolition Charge_Blue,1,Demolition Charge,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardAxe_Blue,1,Axe,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardSaw_Blue,1,Saw,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardShovel_Blue,1,Shovel,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardPickaxe_Blue,1,Pickaxe,1,3,,,MapGameCoinBlue,450,,3
+ValleyRewardExpansion Key_Blue,1,Expansion Key,1,1,,,MapGameCoinBlue,850,,1
+ValleyRewardPuzzle Piece 1_Blue,1,Puzzle Piece 1,1,1,,,MapGameCoinBlue,850,,1
+ValleyRewardPlank_Blue,1,Plank,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardDuct Tape_Blue,1,Duct Tape,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardBolt_Blue,1,Bolt,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardScrew_Blue,1,Screw,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardNail_Blue,1,Nail,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardWood Panel_Blue,1,Wood Panel,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardLand Deed_Blue,1,Land Deed,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardMallet_Blue,1,Mallet,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardMarker Stake_Blue,1,Marker Stake,1,3,,,MapGameCoinBlue,650,,2
+ValleyRewardRopeFence_Blue,1,RopeFence,3,0,,,MapGameCoinBlue,550,,3
+ValleyRewardDitch_Blue,1,Ditch,3,2,,,MapGameCoinBlue,550,,3
+ValleyRewardWheebarrow_Blue,1,Wheebarrow,1,0,,,MapGameCoinBlue,400,,3
+ValleyRewardBench_2_Blue,1,Bench_2,1,0,,,MapGameCoinBlue,500,,3
+ValleyRewardBonfire_Blue,1,Bonfire,1,0,,,MapGameCoinBlue,500,,3
+ValleyRewardEasierBoats_lv3_Blue,1,EasierBoats_lv3,1,4,,,MapGameCoinBlue,600,,3
+ValleyRewardFasterFishingSpots_lv3_Blue,1,FasterFishingSpots_lv3,1,0,,,MapGameCoinBlue,600,,3
+ValleyRewardMoreCash_lv3_Blue,1,MoreCash_lv3,1,4,,,MapGameCoinBlue,600,,3
+Valley Season 3_FreeDiamonds,2,FreeDiamonds,40,0,sc/hud.sc,icon_diamonds_pile,MapGameCoinBlue,1200,TID_MAPGAME_REWARDS_DIAMONDPACK,1
+,,,,,,,MapGameCoinRed,1200,,
+,,,,,,,MapGameCoinGreen,1200,,
+Valley Season 3_deco_boat,2,Boardgame trophy Boat,1,0,,,MapGameCoinBlue,1100,,1
+,,,,,,,MapGameCoinRed,1100,,
+,,,,,,,MapGameCoinGreen,1100,,
+Valley Season 3_boosters,2,MoreXP_lv5,1,0,,,MapGameCoinBlue,1050,TID_MAPGAME_BOOSTER_PACK,1
+,,FreeTom_lv5,1,,,,MapGameCoinRed,1050,,
+,,EasierBoats_lv5,1,,,,MapGameCoinGreen,1050,,
+Valley Season 4_FreeDiamonds,2,FreeDiamonds,40,0,sc/hud.sc,icon_diamonds_pile,MapGameCoinBlue,1200,TID_MAPGAME_REWARDS_DIAMONDPACK,1
+,,,,,,,MapGameCoinRed,1200,,
+,,,,,,,MapGameCoinGreen,1200,,
+Valley Season 4_deco_plane,2,Boardgame trophy Plane,1,0,,,MapGameCoinBlue,1100,,1
+,,,,,,,MapGameCoinRed,1100,,
+,,,,,,,MapGameCoinGreen,1100,,
+Valley Season 4_boosters,2,MoreXP_lv5,1,0,,,MapGameCoinBlue,1050,TID_MAPGAME_BOOSTER_PACK,1
+,,FreeTom_lv5,1,,,,MapGameCoinRed,1050,,
+,,EasierBoats_lv5,1,,,,MapGameCoinGreen,1050,,
+Valley Season 5_FreeDiamonds,2,FreeDiamonds,40,0,sc/hud.sc,icon_diamonds_pile,MapGameCoinBlue,1200,TID_MAPGAME_REWARDS_DIAMONDPACK,1
+,,,,,,,MapGameCoinRed,1200,,
+,,,,,,,MapGameCoinGreen,1200,,
+Valley Season 5_deco_scooter,2,Boardgame trophy Vespa,1,0,,,MapGameCoinBlue,1100,,1
+,,,,,,,MapGameCoinRed,1100,,
+,,,,,,,MapGameCoinGreen,1100,,
+Valley Season 5_boosters,2,MoreXP_lv5,1,0,,,MapGameCoinBlue,1050,TID_MAPGAME_BOOSTER_PACK,1
+,,FreeTom_lv5,1,,,,MapGameCoinRed,1050,,
+,,EasierBoats_lv5,1,,,,MapGameCoinGreen,1050,,
+ValleyRewardMoreXP_lv3,1,MoreXP_lv3,1,8,,,MapGameCoinBlue,200,,3
+,,,,,,,MapGameCoinRed,200,,
+,,,,,,,MapGameCoinGreen,200,,
+ValleyRewardMoreXP_lv3_Green,1,MoreXP_lv3,1,4,,,MapGameCoinGreen,600,,3
+ValleyRewardMoreXP_lv3_Red,1,MoreXP_lv3,1,4,,,MapGameCoinRed,600,,3
+ValleyRewardMoreXP_lv3_Blue,1,MoreXP_lv3,1,4,,,MapGameCoinBlue,600,,3
+ValleyRewardGolden Path,1,Golden Path,3,6,,,MapGameCoinBlue,200,,1
+,,,,,,,MapGameCoinRed,200,,
+,,,,,,,MapGameCoinGreen,200,,
+ValleyRewardLushFern,1,LushFern,1,6,,,MapGameCoinBlue,120,,3
+,,,,,,,MapGameCoinRed,120,,
+,,,,,,,MapGameCoinGreen,120,,
+ValleyRewardBonsaiTree,1,BonsaiTree,1,6,,,MapGameCoinBlue,220,,1
+,,,,,,,MapGameCoinRed,220,,
+,,,,,,,MapGameCoinGreen,220,,
+ValleyRewardRoseFenceWhite,1,RoseFenceWhite,3,6,,,MapGameCoinBlue,170,,3
+,,,,,,,MapGameCoinRed,170,,
+,,,,,,,MapGameCoinGreen,160,,
+ValleyRewardLushFern_Green,1,LushFern,1,2,,,MapGameCoinGreen,360,,3
+ValleyRewardRoseFenceWhite_Green,1,RoseFenceWhite,3,2,,,MapGameCoinGreen,500,,3
+ValleyRewardLushFern_Red,1,LushFern,1,2,,,MapGameCoinRed,360,,3
+ValleyRewardRoseFenceWhite_Red,1,RoseFenceWhite,3,2,,,MapGameCoinRed,500,,3
+ValleyRewardLushFern_Blue,1,LushFern,1,2,,,MapGameCoinBlue,360,,3
+ValleyRewardRoseFenceWhite_Blue,1,RoseFenceWhite,3,2,,,MapGameCoinBlue,500,,3
+Valley Season 6_FreeDiamonds,2,FreeDiamonds,40,1,sc/hud.sc,icon_diamonds_pile,MapGameCoinBlue,1200,TID_MAPGAME_REWARDS_DIAMONDPACK,1
+,,Puzzle Piece 1,1,,,,MapGameCoinRed,1200,,
+,,,,,,,MapGameCoinGreen,1200,,
+Valley Season 6_deco_balloon,2,Boardgame trophy Balloon,1,1,,,MapGameCoinBlue,1100,,1
+,,Expansion Key,1,,,,MapGameCoinRed,1100,,
+,,,,,,,MapGameCoinGreen,1100,,
+Valley Season 6_boosters,2,MoreXP_lv5,1,1,,,MapGameCoinBlue,1050,TID_MAPGAME_BOOSTER_PACK,1
+,,FreeTom_lv5,1,,,,MapGameCoinRed,1050,,
+,,EasierBoats_lv5,1,,,,MapGameCoinGreen,1050,,
